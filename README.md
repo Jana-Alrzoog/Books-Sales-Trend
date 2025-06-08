@@ -1,7 +1,7 @@
 <h1 align="center">📚 Bestseller Book Cover & Sales Analysis</h1>
 
 <p align="center">
-![image](https://github.com/user-attachments/assets/3d289d48-cb1d-4d04-a6cc-6365ff59966d)
+  <img src="images/poster-cover.png" width="600"/>
 </p>
 
 <p align="center">
@@ -89,12 +89,11 @@ We extracted visual features from book covers to classify design trends.
 ## 📊 Visuals & Findings
 
 <p align="center">
-  <img src="https://i.imgur.com/CeEOqDc.png" width="400"/>
-  <img src="https://i.imgur.com/TtdynD4.png" width="400"/>
+  <img src="images/visual-results.png" width="600"/>
 </p>
 
 <p align="center">
-  <i>Sample visuals showing genre distribution and review-rating correlation</i>
+  <i>Sample visualizations showing genre distribution and review-rating correlation</i>
 </p>
 
 ---
@@ -123,4 +122,3 @@ Bestseller success isn’t defined by a **single factor** — it's a **combinati
 
 **Supervised by:** Dr. Mashael Aldayel
 
----
