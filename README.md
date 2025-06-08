@@ -1,8 +1,5 @@
 <h1 align="center">📚 Bestseller Book Cover & Sales Analysis</h1>
 
-<p align="center">
-  <img src="images/poster-cover.png" width="600"/>
-</p>
 
 <p align="center">
   Data-Driven Insights on Visual Design, Reviews, and Market Trends in Book Sales.
@@ -83,18 +80,6 @@ We extracted visual features from book covers to classify design trends.
 | 💰 Price Range            | Most bestsellers fall between **30–80 SAR** |
 | 📚 Genre Trends           | Self-help, children’s books, and fiction dominate |
 | 🖊️ Author Success         | Recurring bestselling authors were identified |
-
----
-
-## 📊 Visuals & Findings
-
-<p align="center">
-  <img src="images/visual-results.png" width="600"/>
-</p>
-
-<p align="center">
-  <i>Sample visualizations showing genre distribution and review-rating correlation</i>
-</p>
 
 ---
 
