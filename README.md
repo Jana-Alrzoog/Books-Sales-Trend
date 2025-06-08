@@ -26,7 +26,7 @@ We aimed to answer the following key questions:
 
 ---
 
-## 🧪 Data Collection
+##  Data Collection
 
 | Source        | Description                              |
 |---------------|------------------------------------------|
@@ -47,7 +47,7 @@ We aimed to answer the following key questions:
 
 We extracted visual features from book covers to classify design trends.
 
-**🧪 Feature Extraction:**
+** Feature Extraction:**
 - Contrast  
 - Edge Complexity  
 - Color Saturation  
