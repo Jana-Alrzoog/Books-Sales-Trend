@@ -1,5 +1,6 @@
 <h1 align="center">📚 Bestseller Book Cover & Sales Analysis</h1>
 
+![image](https://github.com/user-attachments/assets/90910d60-6b16-4c44-b99b-5bc9b9a96387)
 
 <p align="center">
   Data-Driven Insights on Visual Design, Reviews, and Market Trends in Book Sales.
