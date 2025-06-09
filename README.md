@@ -21,11 +21,11 @@ This project uses data science to analyze **book cover visuals**, **ratings**, *
 
 We aimed to answer the following key questions:
 
-- ✅ Do bestseller books have distinct **visual cover patterns**?
-- ✅ Are **certain authors** more likely to have bestsellers?
-- ✅ What **genres** dominate bestseller lists?
-- ✅ How do **ratings and reviews** differ among bestsellers?
-- ✅ What is the **price range** for high-performing books?
+-  Do bestseller books have distinct **visual cover patterns**?
+-  Are **certain authors** more likely to have bestsellers?
+-  What **genres** dominate bestseller lists?
+-  How do **ratings and reviews** differ among bestsellers?
+-  What is the **price range** for high-performing books?
 
 ---
 
